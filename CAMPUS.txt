@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CAMPUS NEWS</title>
+  <body>
+    <div>
+      <form class="container-fluid justify-content-start">
+        <a button class="btn btn-outline-success me-2"href="C:\Users\Omar\Desktop\HTML\PW1.html" type="btn1">HOME</button></a>
+        </form>    
+    </div>
+    <link rel='stylesheet' type='text/css' media='screen' href='C:\Users\Omar\Desktop\HTML\style2.css'>
+    
+    <marquee><title><center><b><i>FIND THE LATEST UPCOMING CAMPUS NEWS EXCLUSIV</i></b></center></title></marquee>
+   <marquee><b><i>  FIND THE LATEST INCAMPUS NEWS AND ACTIVITIES HERE!!!</a></i></b></marquee>
+   <head>
+    <ul>
+    <div class="active">
+    <li>
+      
+      YOGA AND MEDITATION
+      </a>
+    </li>
+    </div>
+    <li>
+      
+        NSS REGISTRATION FORM
+      </a>
+    </li>
+    <li>
+     
+        VOLUNTEERING OPPURTUNITIES
+      </a>
+    </li>
+     <li>
+       
+         SPORTS EVENTS
+       </a>
+      </li>
+    </ul>  
+    <h1><i>
+      1.SPORTS EVENTS lessssss gooooooo!!!
+      </i>
+    </h1>
+  </head>
+    <p>
+      <h3>
+      <b><i>SPORT ACTIVITIES IN CAMPUS</i></b>
+      </h3>
+    </p>
+       </div>
+    <table style="width:40%">
+      <tr>
+        <th>
+          SPORT EVENTS
+        </th>
+        <th>
+          GOOGLE FORM FOR REGISTRATION
+        </th>
+      </tr>
+      <tr>
+        <td><i><b>
+          CRICKET(11 IN A TEAM)
+        </td></i></b>
+        <td>
+          <a href="https://docs.google.com/forms/d/1CQ4LaAfhAhkTaK35N6LjzHIYKdljIrxmx-YwDcxuFPs/edit"class="button">CRICKET REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><i><b>
+          BASKETBALL(10 IN A TEAM)
+        </td></i></b>
+        <td>
+          <a href="https://docs.google.com/forms/d/1uArQURG8EI5NgbPev0sBxar9kBWWPk81EgjY-t18eEs/edit "class="button">BASKET BALL REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><i><b>
+          VOLLEYBALL(8 IN A TEAM)
+        </td></i></b>
+        <td>
+          <a href="https://docs.google.com/forms/d/1zDjRdLVFh1xyxiLhyGM6vNeVgAlRX97bO297-rDPyvg/edit" class="button">VOLLEYBALL REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><i><b>
+          FOOTBALL(11 IN A TEAM)
+        </td></i></b>
+        <td>
+          <a href="https://docs.google.com/forms/d/1OWBs10SMblJnD9LN6MBnmZrmubfA7w21negFNtGvaHk/edit" class="button">FOOTBALL REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><b><i>
+          TABLE TENNIS(TEAM 0F 2 ONLY)
+        </td></b></i>
+        <td>
+          <a href="https://docs.google.com/forms/d/1E6UAt-vOYhDnWgNRiGfIsQL5BYyDcsh9GQtYZuMb2ak/edit" class="button">TABLE TENNIS REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><b><i>
+          KABBADI(TEAM OF 6 ONLY)
+        </td></b></i>
+        <td>
+          <a href="https://docs.google.com/forms/d/1IBCODHVWq0k8iAw3htGrp1zmmX-r8eeqpQfr6pELrkE/edit" class="button">KABBADI REGISTRATION FORM(2021-2022)</a>
+        </td>
+      </tr>
+      <p><b><u><i>NOTE:-REGISTRATIONS WILL CLOSE ON 1ST JANUARY 2022 </i></u></b></p>
+      
+      
+    </table>
+   <h2><u><i><b>2.YOGA(Conducted By Department Of Physical Education Of BMSCE)</b></i></u></h2>
+   <h3>WHAT IS YOGA?</h3>
+   <p><i>Unlike many other forms of exercise, yoga is a unique practice that combines the exercise of both the mind and the body. In yoga, the physical actions are complemented by mental ones with the goal of achieving a calmer and more peaceful state. As far as physical exertion goes, yoga requires careful positioning and stretching through predetermined poses and moves. To improve the mental state as well, yoga incorporates calming breathing exercises, and, in some cases, meditation. The combination of these physical and mental exercises leads to several great benefits that are described below.</i></p>
+   <img src="https://images.everydayhealth.com/images/healthy-living/fitness/all-about-yoga-mega-722x406.jpg"><br>
+   <a href="https://youtu.be/XLk5yks9c_Q">YOGA-BY SADHGURU</a></br>
+   
+   
+   
+   
+  </body>
