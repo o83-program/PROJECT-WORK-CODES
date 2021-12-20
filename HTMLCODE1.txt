@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+    <html>
+        <title>BMSCEPORTAL.ac.in</title>
+        <div class="load">
+            <hr/><hr/><hr/><hr/>
+          </div>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>BMSCE CAMPUS PORTAL</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='C:\Users\Omar\Desktop\HTML\style.css'>
+        <script src='main.js'></script>
+    </head>
+    <body>
+
+        <header>
+            <div class="main">
+            <div class="logo">
+                <img src="file:///D:/Omar/image-removebg-preview.png">
+                <div class="main">
+                    <div class="logo2">
+                        <img src="https://bmsit.ac.in/public/assets/images/admins/BMSreenivasaiah.jpg"> 
+            </div>
+    <ul>
+        <li><a href="C:\Users\Omar\Desktop\HTML\PW1.2.HTML">LOGIN</a></li>
+        <li class="active"><a href="#">HOME</a></li>
+        <li><a href="https://collegedunia.com/college/5540-bms-college-of-engineering-bmsce-bangalore">GUIDE</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/B.M.S._College_of_Engineering">ABOUT US</a></li>
+        <li><a href="https://www.collegebatch.com/287-bms-college-of-engineering-contact-number-address-map-bangalore">CONTACT</a></li>
+    </ul>
+    </div>
+    <div class="title">
+        <h1>BMSCE CAMPUS PORTAL</h1>
+    </div> 
+    <div class="button">
+     <a href="C:\Users\Omar\Desktop\HTML\admissions.html" class="btn">ADMISSIONS OPEN 1ST YEAR(2022-23)</a></br>
+     <a href="https://www.careerindia.com/colleges/bmsce-bengaluru-urban-karnataka-cp5033/" class="btn">TECH EVENTS(2022-2023)</a></br>
+     <a href="C:\Users\Omar\Desktop\HTML\CampusNews.html" class="btn">INCAMPUS ACTIVITIES BMSCE</a></br>
+     <a href="https://www.careerindia.com/colleges/bmsce-bengaluru-urban-karnataka-cp5033/" class="btn">ACADEMICS</a></br>
+     
+
+    </div>
+    </header>
+    </body>
+    </html>
