@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <div>
+    <form class="container-fluid justify-content-start">
+      <a button class="btn btn-outline-success me-2"href="C:\Users\Omar\Desktop\HTML\PW1.html" type="btn1">HOME</button></a>
+      </form>    
+  </div>
+  <marquee><u><i><u><b>PLEASE LOGIN TO FETCH THE STUDENT DETABASE!!!</b></u></i></u></marquee>
+    <link href="C:\Users\Omar\Desktop\HTML\style.css" rel="stylesheet">
+    <script defer src="login.js"></script>
+    <link href="C:\Users\Omar\Desktop\HTML\loginpage.js" rel="loginpage">
+    </head>
+    <div id="particles-js"></div>
+    <body class="login">
+      <div class="container">
+        <div class="login-container-wrapper clearfix">
+          <div class="logo">
+            <i class="fa fa-sign-in"></i>
+          </div>
+          <div class="WELCOME TO BMSCE PORTAL"><strong>WELCOME TO BMSCE STUDENT PORTAL,</strong> PLEASE LOGIN</div>
+    
+          <form class="form-horizontal login-form">
+            <div class="form-group relative">
+              <input id="login_username" class="form-control input-lg" type="email" placeholder="COLLEGE EMAIL-ID" required>
+              <i class="fa fa-user"></i>
+            </div>
+            <div class="form-group relative password">
+              <input id="login_password" class="form-control input-lg" type="password" placeholder="PASSWORD" required>
+              <i class="fa fa-lock"></i>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-success btn-lg btn-block">Login</button>
+            </div>
+            <div class="checkbox pull-left">
+              <label><input type="checkbox"> Remember</label>
+            </div>
+            <div class="checkbox pull-right">
+              <label> <a class="forget" href="" title="forget">Forgot your password</a> </label>
+            </div>
+          </form>
+        </div>
+        
+        <h4 class="text-center">
+          
+        </h4>
+      </div>
+    
+      </body>
+
+  
+
+
